@@ -10,9 +10,6 @@ class Solution:
             tot += self.binom(n-n_bit, n_bit)
         
         return int(tot)
-
-#2 => 2
-#3 => 3
-#4 => 5
+    
 solution = Solution()
 print(solution.climbStairs(6))
