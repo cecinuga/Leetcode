@@ -28,7 +28,7 @@ Welcome to my Leetcode solutions repository! Here you'll find my solutions to va
 | 8 | [reverse-integer](https://leetcode.com/problems/reverse-integer/description/) | [Medium/py/reverse\_integer.py](https://github.com/cecinuga/Leetcode/tree/main/Medium/py/reverse_integer.py) | Medium | py |
 | 9 | [find-score-of-an-array-after-marking-all-elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/) | [Medium/py/find\_score\_of\_an\_array\_after\_marking\_all\_elements.py](https://github.com/cecinuga/Leetcode/tree/main/Medium/py/find_score_of_an_array_after_marking_all_elements.py) | Medium | py |
 | 10 | [string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Medium/py/string\_to\_integer\_atoi.py](https://github.com/cecinuga/Leetcode/tree/main/Medium/py/string_to_integer_atoi.py) | Medium | py |
-| 11 | [find-median-sorted-arrays](https://leetcode.com/problems/find-median-sorted-arrays/description/) | [Hard/ts/find\_median\_sorted\_arrays.ts](https://github.com/cecinuga/Leetcode/tree/main/Hard/ts/find_median_sorted_arrays.ts) | Hard | ts |
+| 11 | [median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Hard/ts/median\_of\_two\_sorted\_arrays.ts](https://github.com/cecinuga/Leetcode/tree/main/Hard/ts/median_of_two_sorted_arrays.ts) | Hard | ts |
 | 12 | [regular-expression-matching](https://leetcode.com/problems/regular-expression-matching/description/) | [Hard/py/regular\_expression\_matching.py](https://github.com/cecinuga/Leetcode/tree/main/Hard/py/regular_expression_matching.py) | Hard | py |
 
 
