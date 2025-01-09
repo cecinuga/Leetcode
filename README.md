@@ -18,17 +18,17 @@ Welcome to my Leetcode solutions repository! Here you'll find my solutions to va
 
 | N | Title | Difficulty | Language |
 | --- | --- | --- | --- |
-| 1 | [is-palindrome.ts](https://leetcode.com/problems/is-palindrome.ts/description/) | [Easy/ts/is\_palindrome.ts](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Easy | ts |
-| 2 | [remove-duplicates.ts](https://leetcode.com/problems/remove-duplicates.ts/description/) | [Easy/ts/remove\_duplicates.ts](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Easy | ts |
-| 3 | [remove-element.py](https://leetcode.com/problems/remove-element.py/description/) | [Easy/py/remove\_element.py](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Easy | py |
-| 4 | [two-sum.py](https://leetcode.com/problems/two-sum.py/description/) | [Easy/py/two\_sum.py](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Easy | py |
-| 5 | [climbing-stairs.py](https://leetcode.com/problems/climbing-stairs.py/description/) | [Easy/py/climbing\_stairs.py](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Easy | py |
-| 6 | [length-of-longest-substring.ts](https://leetcode.com/problems/length-of-longest-substring.ts/description/) | [Medium/ts/length\_of\_longest\_substring.ts](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Medium | ts |
-| 7 | [add-two-numbers.py](https://leetcode.com/problems/add-two-numbers.py/description/) | [Medium/py/add\_two\_numbers.py](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Medium | py |
-| 8 | [find-score.py](https://leetcode.com/problems/find-score.py/description/) | [Medium/py/find\_score.py](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Medium | py |
-| 9 | [reverse-integer.py](https://leetcode.com/problems/reverse-integer.py/description/) | [Medium/py/reverse\_integer.py](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Medium | py |
-| 10 | [atoy.py](https://leetcode.com/problems/atoy.py/description/) | [Medium/py/atoy.py](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Medium | py |
-| 11 | [find-median-sorted-arrays.ts](https://leetcode.com/problems/find-median-sorted-arrays.ts/description/) | [Hard/ts/find\_median\_sorted\_arrays.ts](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Hard | ts |
-| 12 | [regex.py](https://leetcode.com/problems/regex.py/description/) | [Hard/py/regex.py](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Hard | py |
+| 1 | [is\_palindrome.ts](https://leetcode.com/problems/is_palindrome.ts/description/) | [Easy/ts/is-palindrome](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Easy | ts |
+| 2 | [remove\_duplicates.ts](https://leetcode.com/problems/remove_duplicates.ts/description/) | [Easy/ts/remove-duplicates](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Easy | ts |
+| 3 | [remove\_element.py](https://leetcode.com/problems/remove_element.py/description/) | [Easy/py/remove-element](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Easy | py |
+| 4 | [two\_sum.py](https://leetcode.com/problems/two_sum.py/description/) | [Easy/py/two-sum](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Easy | py |
+| 5 | [climbing\_stairs.py](https://leetcode.com/problems/climbing_stairs.py/description/) | [Easy/py/climbing-stairs](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Easy | py |
+| 6 | [length\_of\_longest\_substring.ts](https://leetcode.com/problems/length_of_longest_substring.ts/description/) | [Medium/ts/length-of-longest-substring](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Medium | ts |
+| 7 | [add\_two\_numbers.py](https://leetcode.com/problems/add_two_numbers.py/description/) | [Medium/py/add-two-numbers](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Medium | py |
+| 8 | [find\_score.py](https://leetcode.com/problems/find_score.py/description/) | [Medium/py/find-score](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Medium | py |
+| 9 | [reverse\_integer.py](https://leetcode.com/problems/reverse_integer.py/description/) | [Medium/py/reverse-integer](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Medium | py |
+| 10 | [atoy.py](https://leetcode.com/problems/atoy.py/description/) | [Medium/py/atoy](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Medium | py |
+| 11 | [find\_median\_sorted\_arrays.ts](https://leetcode.com/problems/find_median_sorted_arrays.ts/description/) | [Hard/ts/find-median-sorted-arrays](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Hard | ts |
+| 12 | [regex.py](https://leetcode.com/problems/regex.py/description/) | [Hard/py/regex](https://github.com/cecinuga/Leetcode/tree/main/{leetcode.path}) | Hard | py |
 
 
