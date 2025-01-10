@@ -10,14 +10,11 @@ Welcome to my Leetcode solutions repository! Here you'll find my solutions to va
 **Problem Resolved: 15**
 ------------------------
 
+**Profile :
+[cecinuga](https://leetcode.com/u/cecinuga/)**
+----------------------------------------------------------
+
   
-
-**Profile**
------------
-
-  
-
-[Goto: cecinuga](https://leetcode.com/u/cecinuga/)
 
 README writed by: [MARKPLATE](https://github.com/cecinuga/markplate)
 
