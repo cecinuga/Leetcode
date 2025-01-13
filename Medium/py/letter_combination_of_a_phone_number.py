@@ -18,14 +18,7 @@ class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         result = ['']*(3**len(digits))
 
-        for i, digit in enumerate(digits):
-            skip = 0
-            for j, letter in enumerate(self.telephone[digit]):
-                result[skip+j] = f'{result[skip+j]}{letter}'
-                result[skip+j+1] = f'{result[skip+j+1]}{letter}'
-                result[skip+j+2] = f'{result[skip+j+2]}{letter}'
-
-                skip += 2
+        
 
         return result
 
