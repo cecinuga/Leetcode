@@ -1,4 +1,4 @@
-import math
+import itertools
 from typing import List
 
 
@@ -16,12 +16,15 @@ class Solution:
         }
 
     def letterCombinations(self, digits: str) -> List[str]:
-        result = ['']*(3**len(digits))
+        if not digits: return []
+        result = []
 
-        
+        ranges = [[letters for letters in self.telephone[digit]] for digit in digits] 
+        for i, combination in enumerate(itertools.product(*ranges)):
+            result.append(''.join(combination))
 
         return result
 
 solution = Solution()
 print(solution.letterCombinations(digits="23"))
-print(solution.letterCombinations(digits="2"))
+print(solution.letterCombinations(digits="7"))
