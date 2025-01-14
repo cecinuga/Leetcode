@@ -7,7 +7,7 @@
 
 Welcome to my Leetcode solutions repository! Here you'll find my solutions to various Leetcode problems, organized by difficulty and topic.
 
-**Problems Resolved: 18**
+**Problems Resolved: 19**
 -------------------------
 
 **Profile :
@@ -29,14 +29,15 @@ README writed by: [MARKPLATE](https://github.com/cecinuga/markplate)
 | 7 | [reverse-integer](https://leetcode.com/problems/reverse-integer/description/) | [Medium/py/reverse\_integer.py](https://github.com/cecinuga/Leetcode/tree/main/Medium/py/reverse_integer.py) | Medium | py |
 | 8 | [add-two-numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Medium/py/add\_two\_numbers.py](https://github.com/cecinuga/Leetcode/tree/main/Medium/py/add_two_numbers.py) | Medium | py |
 | 9 | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Medium/ts/longest\_substring\_without\_repeating\_characters.ts](https://github.com/cecinuga/Leetcode/tree/main/Medium/ts/longest_substring_without_repeating_characters.ts) | Medium | ts |
-| 10 | [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Easy/py/merge\_two\_sorted\_lists.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/merge_two_sorted_lists.py) | Easy | py |
-| 11 | [valid-parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Easy/py/valid\_parentheses.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/valid_parentheses.py) | Easy | py |
-| 12 | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Easy/py/longest\_common\_prefix.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/longest_common_prefix.py) | Easy | py |
-| 13 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/description/) | [Easy/py/roman-to-integer.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/roman-to-integer.py) | Easy | py |
-| 14 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Easy/py/climbing\_stairs.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/climbing_stairs.py) | Easy | py |
-| 15 | [two-sum](https://leetcode.com/problems/two-sum/description/) | [Easy/py/two\_sum.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/two_sum.py) | Easy | py |
-| 16 | [remove-element](https://leetcode.com/problems/remove-element/description/) | [Easy/py/remove\_element.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/remove_element.py) | Easy | py |
-| 17 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Easy/ts/remove\_duplicates\_from\_sorted\_array.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/remove_duplicates_from_sorted_array.ts) | Easy | ts |
-| 18 | [palindrome-number](https://leetcode.com/problems/palindrome-number/description/) | [Easy/ts/palindrome\_number.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/palindrome_number.ts) | Easy | ts |
+| 10 | [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Easy/py/find-the-index\_of\_the\_first\_occurrence\_in\_a\_string.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/find-the-index_of_the_first_occurrence_in_a_string.py) | Easy | py |
+| 11 | [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Easy/py/merge\_two\_sorted\_lists.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/merge_two_sorted_lists.py) | Easy | py |
+| 12 | [valid-parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Easy/py/valid\_parentheses.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/valid_parentheses.py) | Easy | py |
+| 13 | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Easy/py/longest\_common\_prefix.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/longest_common_prefix.py) | Easy | py |
+| 14 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/description/) | [Easy/py/roman-to-integer.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/roman-to-integer.py) | Easy | py |
+| 15 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Easy/py/climbing\_stairs.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/climbing_stairs.py) | Easy | py |
+| 16 | [two-sum](https://leetcode.com/problems/two-sum/description/) | [Easy/py/two\_sum.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/two_sum.py) | Easy | py |
+| 17 | [remove-element](https://leetcode.com/problems/remove-element/description/) | [Easy/py/remove\_element.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/remove_element.py) | Easy | py |
+| 18 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Easy/ts/remove\_duplicates\_from\_sorted\_array.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/remove_duplicates_from_sorted_array.ts) | Easy | ts |
+| 19 | [palindrome-number](https://leetcode.com/problems/palindrome-number/description/) | [Easy/ts/palindrome\_number.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/palindrome_number.ts) | Easy | ts |
 
 
