@@ -2,7 +2,7 @@
 
 args=("$@")
 GIT='git --git-dir='$PWD'/.git'
-MARKPLATE=/home/cecinuga/Scrivania/Programming/markplate
+MARKPLATE=/home/cecinuga/Scrivania/Github/markplate
 
 echo $args
 
