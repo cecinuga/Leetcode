@@ -18,4 +18,3 @@ let removeElements = function (head, val) {
     if ( head.val == val ) return head.next
     return head
 };
-
