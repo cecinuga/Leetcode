@@ -2,42 +2,51 @@
  * @param {number} n
  * @return {string[]}
  */
-function anticipatedVisit(tree, i) {
-    if (i === void 0) { i = 0; }
-    if (i > 0 && (i >= tree.length - 1 || i >= tree.length - 2))
-        return tree[i] || "";
-    var _a = [i * 2, i * 2 + 1], left = _a[0], right = _a[1];
-    if (left == 0)
-        left = 1;
-    if (right == 1)
-        right = 2;
-    return "(".concat(anticipatedVisit(tree, left)).concat(anticipatedVisit(tree, right), ")");
+/*
+function anticipatedVisit(tree: (string | undefined)[], i: number=0): string {
+    if ( i > 0 && ( i >= tree.length-1 || i >= tree.length-2 ) ) return tree[i] || ""
+
+    let [left, right] = [i*2, i*2+1]
+
+    if ( left == 0 )
+        left = 1
+    if ( right == 1 )
+        right = 2
+
+    return `(${anticipatedVisit(tree, left)}${anticipatedVisit(tree, right)})`
 }
-function anticipatedVisits(trees) {
-    var res = "";
-    for (var _i = 0, trees_1 = trees; _i < trees_1.length; _i++) {
-        var tree = trees_1[_i];
-        res += "".concat(anticipatedVisit(tree));
+
+function anticipatedVisits(trees: (string | undefined)[][]): string{
+    let res = ""
+    for ( let tree of trees ){
+        res += `${anticipatedVisit(tree)}`
     }
-    return res;
+    return res
 }
-console.log(anticipatedVisits([["()", "()", "()"]]));
-"(()())";
-console.log(anticipatedVisits([["()", "()", undefined, "()"]]));
-"((()))";
-console.log(anticipatedVisits([["()"], ["()"], ["()"]]));
-"()()()";
-console.log(anticipatedVisits([["()", "()"], ["()"]]));
-"(())()";
-console.log(anticipatedVisits([["()"], ["()", "()"], ["()", undefined, "()", undefined, "()"]]));
-"()(())";
+
+console.log(anticipatedVisits([["()","()","()"]]));
+console.log(anticipatedVisits([["()","()",undefined,"()"]]));
+console.log(anticipatedVisits([["()"],["()"],["()"]]));
+console.log(anticipatedVisits([["()","()"],["()"]]));
+console.log(anticipatedVisits([["()"],["()","()"], ["()", undefined, "()", undefined, "()"]]));
+*/
 var generateParenthesis = function (n) {
-    var combs = [];
-    var combsTrees = [[[]]];
-    for (var _i = 0, combsTrees_1 = combsTrees; _i < combsTrees_1.length; _i++) {
-        var trees = combsTrees_1[_i];
-        combs.push(anticipatedVisits(trees));
+    var res = [];
+    function rec(str, actpa, totpa) {
+        if (str === void 0) { str = "("; }
+        if (actpa === void 0) { actpa = 1; }
+        if (totpa === void 0) { totpa = 1; }
+        if (str.length == n * 2) {
+            res.push(str);
+            return;
+        }
+        if (actpa > 0)
+            rec("".concat(str, ")"), actpa - 1, totpa);
+        if (totpa < n)
+            rec("".concat(str, "("), actpa + 1, totpa + 1);
     }
+    rec();
+    return res;
 };
 var n = 3;
 var res = generateParenthesis(n);

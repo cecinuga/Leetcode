@@ -2,7 +2,7 @@
  * @param {number} n
  * @return {string[]}
  */
-
+/*
 function anticipatedVisit(tree: (string | undefined)[], i: number=0): string {
     if ( i > 0 && ( i >= tree.length-1 || i >= tree.length-2 ) ) return tree[i] || ""
 
@@ -29,14 +29,27 @@ console.log(anticipatedVisits([["()","()",undefined,"()"]]));
 console.log(anticipatedVisits([["()"],["()"],["()"]])); 
 console.log(anticipatedVisits([["()","()"],["()"]]));
 console.log(anticipatedVisits([["()"],["()","()"], ["()", undefined, "()", undefined, "()"]]));
+*/
+
+
 
 var generateParenthesis = function(n: number) {
-    const combs: string[] = []    
-    const combsTrees: ((string | undefined)[])[][] = [[[]]]
+    const res: string[] = []
 
-    for ( let trees of combsTrees ){
-        combs.push(anticipatedVisits(trees))
+    function rec(str: string="(", actpa:number=1, totpa:number=1){
+        if ( str.length == n*2 ) {
+            res.push(str)
+            return 
+        }   
+
+        if(actpa > 0)
+            rec(`${str})`, actpa-1, totpa)
+        
+        if(totpa < n) 
+            rec(`${str}(`, actpa+1, totpa+1)
     }
+    rec()
+    return res
 }; 
 
 
