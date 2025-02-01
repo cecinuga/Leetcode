@@ -1,23 +1,3 @@
-function longestValidParentheses(s: string): number {
-    const stack: number[] = [-1];
-    let maxLen = 0;
-    for (let i = 0; i < s.length; i++) {
-        if (s[i] === '(') {
-            stack.push(i);
-        } else { // s[i] === ')'
-            stack.pop();
-            if (stack.length === 0) {
-                stack.push(i);
-            } else {
-                maxLen = Math.max(maxLen, i - stack[stack.length - 1]);
-            }
-        }
-    }
-    return maxLen;
-}
-
-
-console.log(longestValidParentheses("()(()"))
 function longestValidParenthesesSubstring(s: string): string {
     const stack: number[] = [-1];
     let maxLen = 0;
@@ -41,5 +21,3 @@ function longestValidParenthesesSubstring(s: string): string {
     }
     return s.substring(startIndex, startIndex + maxLen);
 }
-
-console.log(longestValidParenthesesSubstring("()(()"));
