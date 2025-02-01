@@ -7,7 +7,7 @@
 
 Welcome to my Leetcode solutions repository! Here you'll find my solutions to various Leetcode problems, organized by difficulty and topic.
 
-**Problems Resolved: 33**
+**Problems Resolved: 34**
 -------------------------
 
 **Profile :
@@ -51,7 +51,8 @@ README writed by: [MARKPLATE](https://github.com/cecinuga/markplate)
 | 29 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Easy/py/climbing\_stairs.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/climbing_stairs.py) | Easy | py |
 | 30 | [two-sum](https://leetcode.com/problems/two-sum/description/) | [Easy/py/two\_sum.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/two_sum.py) | Easy | py |
 | 31 | [remove-element](https://leetcode.com/problems/remove-element/description/) | [Easy/py/remove\_element.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/remove_element.py) | Easy | py |
-| 32 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Easy/ts/remove\_duplicates\_from\_sorted\_array.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/remove_duplicates_from_sorted_array.ts) | Easy | ts |
-| 33 | [palindrome-number](https://leetcode.com/problems/palindrome-number/description/) | [Easy/ts/palindrome\_number.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/palindrome_number.ts) | Easy | ts |
+| 32 | [array-special-i](https://leetcode.com/problems/array-special-i/description/) | [Easy/ts/array\_special\_i.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/array_special_i.ts) | Easy | ts |
+| 33 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Easy/ts/remove\_duplicates\_from\_sorted\_array.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/remove_duplicates_from_sorted_array.ts) | Easy | ts |
+| 34 | [palindrome-number](https://leetcode.com/problems/palindrome-number/description/) | [Easy/ts/palindrome\_number.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/palindrome_number.ts) | Easy | ts |
 
 

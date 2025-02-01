@@ -1,4 +1,4 @@
-var generateParenthesis = function(n: number) {
+var generateParentheses = function(n: number) {
     const res: string[] = []
 
     function rec(str: string="(", actpa:number=1, totpa:number=1){
@@ -18,7 +18,9 @@ var generateParenthesis = function(n: number) {
 }; 
 
 
-const n = 3
-const res = generateParenthesis(n)
+const n = 5
+const res = generateParentheses(n)
 
 console.log(res)
+console.log(res.length)
+console.log(res[res.length-1])
