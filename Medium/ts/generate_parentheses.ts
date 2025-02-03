@@ -18,7 +18,7 @@ var generateParentheses = function(n: number) {
 }; 
 
 
-const n = 5
+const n = 20
 const res = generateParentheses(n)
 
 console.log(res)
