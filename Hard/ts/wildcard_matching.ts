@@ -38,14 +38,7 @@ function isMatch(s: string, p: string): boolean {
             if ( p[i-1] != "*" ){
                 topPrefixDist = 1
                 leftPrefixDist = 1
-            }/*
-            if ( i > 1 && p[i-1] == "?" && p[i-2] == "*" ){
-                let k = i-1
-                while ( p[k] != "*" ){
-                    k--
-                }
-                adjRow = ((i-1)-k)+1
-            }*/
+            }
 
             M[i][j] = Math.min(M[i-adjRow][j-1] + leftPrefixDist, M[i-adjRow-1][j] + topPrefixDist, M[i-adjRow-1][j-1] + localDist);
         }
