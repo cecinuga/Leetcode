@@ -40,14 +40,3 @@ function expandAroundCenter(s: string, left: number, right: number): number {
     }
     return right - left - 1;
 }
-
-const input1 = "babad"
-const res1 = longestPalindrome(input1)
-const input2 = "aabba"
-const res2 = longestPalindrome(input2)
-const input3 = "aabca"
-const res3 = longestPalindrome(input3)
-
-console.log(res1)
-console.log(res2)
-console.log(res3)
