@@ -7,7 +7,6 @@ function longestNiceSubstring(s: string): string {
       if (charSet.has(c.toLowerCase()) && charSet.has(c.toUpperCase())) 
         continue
       
-      
       const left  = longestNiceSubstring(s.substring(0, i))
       const right = longestNiceSubstring(s.substring(i + 1))
       
