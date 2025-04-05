@@ -2,7 +2,7 @@ function summaryRanges(nums: number[]): string[] {
     if ( nums.length == 0 ) return []
     if ( nums.length == 1 ) return [nums[0].toString()]
     
-    let range = []
+    let range:number[] = []
     const ranges:string[] = []
 
     for ( let i = 0, j = 1; i < nums.length && j <= nums.length; i++,j++ ){
