@@ -5,7 +5,7 @@
 
 Welcome to my Leetcode solutions repository! Here you'll find my solutions to various Leetcode problems, organized by difficulty and topic.
 
-**Problems Resolved: 75**
+**Problems Resolved: 76**
 -------------------------
 
 **Profile :
@@ -69,27 +69,28 @@ README writed by: [MARKPLATE](https://github.com/cecinuga/markplate)
 | 49 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Easy/py/climbing\_stairs.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/climbing_stairs.py) | Easy | py |
 | 50 | [two-sum](https://leetcode.com/problems/two-sum/description/) | [Easy/py/two\_sum.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/two_sum.py) | Easy | py |
 | 51 | [remove-element](https://leetcode.com/problems/remove-element/description/) | [Easy/py/remove\_element.py](https://github.com/cecinuga/Leetcode/tree/main/Easy/py/remove_element.py) | Easy | py |
-| 52 | [sort-an-array](https://leetcode.com/problems/sort-an-array/description/) | [Easy/ts/sort\_an\_array.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/sort_an_array.ts) | Easy | ts |
-| 53 | [relative-ranks](https://leetcode.com/problems/relative-ranks/description/) | [Easy/ts/relative\_ranks.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/relative_ranks.ts) | Easy | ts |
-| 54 | [sqrt](https://leetcode.com/problems/sqrt/description/) | [Easy/ts/sqrt.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/sqrt.ts) | Easy | ts |
-| 55 | [minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Easy/ts/minimum\_depth\_of\_binary\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/minimum_depth_of_binary_tree.ts) | Easy | ts |
-| 56 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Easy/ts/maximum\_depth\_of\_binary\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/maximum_depth_of_binary_tree.ts) | Easy | ts |
-| 57 | [balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Easy/ts/balanced\_binary\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/balanced_binary_tree.ts) | Easy | ts |
-| 58 | [symmetric-tree](https://leetcode.com/problems/symmetric-tree/description/) | [Easy/ts/symmetric\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/symmetric_tree.ts) | Easy | ts |
-| 59 | [summary-ranges](https://leetcode.com/problems/summary-ranges/description/) | [Easy/ts/summary\_ranges.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/summary_ranges.ts) | Easy | ts |
-| 60 | [contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Easy/ts/contains\_duplicate\_ii.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/contains_duplicate_ii.ts) | Easy | ts |
-| 61 | [contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Easy/ts/contains\_duplicate.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/contains_duplicate.ts) | Easy | ts |
-| 62 | [number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Easy/ts/number\_of\_1\_bits.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/number_of_1_bits.ts) | Easy | ts |
-| 63 | [longest-nice-substring](https://leetcode.com/problems/longest-nice-substring/description/) | [Easy/ts/longest\_nice\_substring.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/longest_nice_substring.ts) | Easy | ts |
-| 64 | [majority-element](https://leetcode.com/problems/majority-element/description/) | [Easy/ts/majority\_element.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/majority_element.ts) | Easy | ts |
-| 65 | [find-center-of-star-graph](https://leetcode.com/problems/find-center-of-star-graph/description/) | [Easy/ts/find\_center\_of\_star\_graph.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/find_center_of_star_graph.ts) | Easy | ts |
-| 66 | [longest-palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Easy/ts/longest\_palindrome.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/longest_palindrome.ts) | Easy | ts |
-| 67 | [find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/description/) | [Easy/ts/find\_the\_town\_judge.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/find_the_town_judge.ts) | Easy | ts |
-| 68 | [convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Easy/ts/convert\_sorted\_array\_to\_binary\_search\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/convert_sorted_array_to_binary_search_tree.ts) | Easy | ts |
-| 69 | [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Easy/ts/best\_time\_to\_buy\_and\_sell\_stock.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/best_time_to_buy_and_sell_stock.ts) | Easy | ts |
-| 70 | [pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Easy/ts/pascals\_triangle\_ii.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/pascals_triangle_ii.ts) | Easy | ts |
-| 71 | [pascals-triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Easy/ts/pascals\_triangle.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/pascals_triangle.ts) | Easy | ts |
-| 72 | [same-tree](https://leetcode.com/problems/same-tree/description/) | [Easy/ts/same\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/same_tree.ts) | Easy | ts |
-| 73 | [array-special-i](https://leetcode.com/problems/array-special-i/description/) | [Easy/ts/array\_special\_i.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/array_special_i.ts) | Easy | ts |
-| 74 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Easy/ts/remove\_duplicates\_from\_sorted\_array.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/remove_duplicates_from_sorted_array.ts) | Easy | ts |
-| 75 | [palindrome-number](https://leetcode.com/problems/palindrome-number/description/) | [Easy/ts/palindrome\_number.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/palindrome_number.ts) | Easy | ts |
+| 52 | [is-subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Easy/ts/is\_subsequence.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/is_subsequence.ts) | Easy | ts |
+| 53 | [sort-an-array](https://leetcode.com/problems/sort-an-array/description/) | [Easy/ts/sort\_an\_array.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/sort_an_array.ts) | Easy | ts |
+| 54 | [relative-ranks](https://leetcode.com/problems/relative-ranks/description/) | [Easy/ts/relative\_ranks.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/relative_ranks.ts) | Easy | ts |
+| 55 | [sqrt](https://leetcode.com/problems/sqrt/description/) | [Easy/ts/sqrt.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/sqrt.ts) | Easy | ts |
+| 56 | [minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Easy/ts/minimum\_depth\_of\_binary\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/minimum_depth_of_binary_tree.ts) | Easy | ts |
+| 57 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Easy/ts/maximum\_depth\_of\_binary\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/maximum_depth_of_binary_tree.ts) | Easy | ts |
+| 58 | [balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Easy/ts/balanced\_binary\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/balanced_binary_tree.ts) | Easy | ts |
+| 59 | [symmetric-tree](https://leetcode.com/problems/symmetric-tree/description/) | [Easy/ts/symmetric\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/symmetric_tree.ts) | Easy | ts |
+| 60 | [summary-ranges](https://leetcode.com/problems/summary-ranges/description/) | [Easy/ts/summary\_ranges.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/summary_ranges.ts) | Easy | ts |
+| 61 | [contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Easy/ts/contains\_duplicate\_ii.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/contains_duplicate_ii.ts) | Easy | ts |
+| 62 | [contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Easy/ts/contains\_duplicate.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/contains_duplicate.ts) | Easy | ts |
+| 63 | [number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Easy/ts/number\_of\_1\_bits.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/number_of_1_bits.ts) | Easy | ts |
+| 64 | [longest-nice-substring](https://leetcode.com/problems/longest-nice-substring/description/) | [Easy/ts/longest\_nice\_substring.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/longest_nice_substring.ts) | Easy | ts |
+| 65 | [majority-element](https://leetcode.com/problems/majority-element/description/) | [Easy/ts/majority\_element.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/majority_element.ts) | Easy | ts |
+| 66 | [find-center-of-star-graph](https://leetcode.com/problems/find-center-of-star-graph/description/) | [Easy/ts/find\_center\_of\_star\_graph.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/find_center_of_star_graph.ts) | Easy | ts |
+| 67 | [longest-palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Easy/ts/longest\_palindrome.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/longest_palindrome.ts) | Easy | ts |
+| 68 | [find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/description/) | [Easy/ts/find\_the\_town\_judge.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/find_the_town_judge.ts) | Easy | ts |
+| 69 | [convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Easy/ts/convert\_sorted\_array\_to\_binary\_search\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/convert_sorted_array_to_binary_search_tree.ts) | Easy | ts |
+| 70 | [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Easy/ts/best\_time\_to\_buy\_and\_sell\_stock.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/best_time_to_buy_and_sell_stock.ts) | Easy | ts |
+| 71 | [pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Easy/ts/pascals\_triangle\_ii.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/pascals_triangle_ii.ts) | Easy | ts |
+| 72 | [pascals-triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Easy/ts/pascals\_triangle.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/pascals_triangle.ts) | Easy | ts |
+| 73 | [same-tree](https://leetcode.com/problems/same-tree/description/) | [Easy/ts/same\_tree.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/same_tree.ts) | Easy | ts |
+| 74 | [array-special-i](https://leetcode.com/problems/array-special-i/description/) | [Easy/ts/array\_special\_i.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/array_special_i.ts) | Easy | ts |
+| 75 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Easy/ts/remove\_duplicates\_from\_sorted\_array.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/remove_duplicates_from_sorted_array.ts) | Easy | ts |
+| 76 | [palindrome-number](https://leetcode.com/problems/palindrome-number/description/) | [Easy/ts/palindrome\_number.ts](https://github.com/cecinuga/Leetcode/tree/main/Easy/ts/palindrome_number.ts) | Easy | ts |
