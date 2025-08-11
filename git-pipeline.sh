@@ -9,7 +9,7 @@ echo $args
 alias python=${MARKPLATE}'/env/lib/python3.12'
 
 source ${MARKPLATE}/env/bin/activate
-python ${MARKPLATE}/markplate.py --temp ${MARKPLATE}/templates/leetcode.jinja --out ./ --out-file README.md --cb ${MARKPLATE}/callbacks/leetcode.py --exclude [.git,.gitignore,README.md,git-pipeline.sh] --username cecinuga
+python ${MARKPLATE}/markplate.py --temp ${MARKPLATE}/templates/leetcode.jinja --out ./ --out-file README.md --cb ${MARKPLATE}/callbacks/leetcode.py --exclude [.git,.gitignore,README.md,git-pipeline.sh]
 deactivate
 
 $GIT add .
