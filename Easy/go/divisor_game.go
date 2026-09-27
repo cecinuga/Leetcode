@@ -1,4 +1,4 @@
-package go;
+package main;
 
 func divisorGame(n int) bool {
     if n%2 == 0 {
