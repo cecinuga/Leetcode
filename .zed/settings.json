@@ -2,7 +2,7 @@
   "lsp": {
     "rust-analyzer": {
       "initialization_options": {
-        "linkedProjects": ["./Easy/rust/Cargo.toml"]
+        "linkedProjects": ["./Easy/rust/Cargo.toml", "./Medium/rust/Cargo.toml"]
       }
     }
   }
