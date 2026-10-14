@@ -11,16 +11,14 @@ impl ListNode {
         ListNode { next: None, val }
     }
 }
-impl Solution {
-    pub fn delete_duplicates(head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
-        let mut node = head?;
-        let rest = Self::delete_duplicates(node.next);
-        match rest {
-            Some(r) if r.val == node.val => Some(r),
-            rest => {
-                node.next = rest;
-                Some(node)
-            }
+pub fn delete_duplicates(head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
+    let mut node = head?;
+    let rest = delete_duplicates(node.next);
+    match rest {
+        Some(r) if r.val == node.val => Some(r),
+        rest => {
+            node.next = rest;
+            Some(node)
         }
     }
 }
